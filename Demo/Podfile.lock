@@ -1,0 +1,16 @@
+PODS:
+  - Sunset (1.0.0)
+
+DEPENDENCIES:
+  - Sunset (from `../Sunset`)
+
+EXTERNAL SOURCES:
+  Sunset:
+    :path: "../Sunset"
+
+SPEC CHECKSUMS:
+  Sunset: 3259d48f18f4f745a601c1b0a2f66e303f6b7918
+
+PODFILE CHECKSUM: a9b7e65c866fb57f2b32fb48fb0adf818340364b
+
+COCOAPODS: 1.11.2
