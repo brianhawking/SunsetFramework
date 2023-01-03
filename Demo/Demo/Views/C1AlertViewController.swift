@@ -366,8 +366,6 @@ class C1AlertViewController: UIViewController {
     
     @IBAction func alertMeButtonTapped(_ sender: UIButton) {
         
-        alertMeButton.shake(direction: .vertical)
-        
         let customAlert = BVAlertView()
         
         customAlert.addButton(with: "Some Action", style: .action) { _ in
