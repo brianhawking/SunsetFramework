@@ -368,9 +368,6 @@ class C1AlertViewController: UIViewController {
         
         alertMeButton.shake(direction: .vertical)
         
-        var label = "lkjas;df"
-        label.something()
-        
         let customAlert = BVAlertView()
         
         customAlert.addButton(with: "Some Action", style: .action) { _ in

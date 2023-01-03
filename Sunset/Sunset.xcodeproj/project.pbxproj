@@ -18,6 +18,7 @@
 		F78069362956B1B300DC79D7 /* Sunset.h in Headers */ = {isa = PBXBuildFile; fileRef = F78069332956B1B300DC79D7 /* Sunset.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F780693D2956B1C900DC79D7 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F780693C2956B1C900DC79D7 /* Test.swift */; };
 		F78069692956BDB700DC79D7 /* shake.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78069682956BDB700DC79D7 /* shake.swift */; };
+		F7851D8F2963EFB80005DAE6 /* BVAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7851D8E2963EFB80005DAE6 /* BVAlertView.swift */; };
 		F7BF68522958065E0070E89D /* something.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BF68512958065E0070E89D /* something.swift */; };
 		F7BF685A295A42240070E89D /* spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BF6859295A42240070E89D /* spacing.swift */; };
 		F7BF685C295A511E0070E89D /* rotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BF685B295A511E0070E89D /* rotate.swift */; };
@@ -36,6 +37,7 @@
 		F78069342956B1B300DC79D7 /* Sunset.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Sunset.docc; sourceTree = "<group>"; };
 		F780693C2956B1C900DC79D7 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		F78069682956BDB700DC79D7 /* shake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shake.swift; sourceTree = "<group>"; };
+		F7851D8E2963EFB80005DAE6 /* BVAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BVAlertView.swift; sourceTree = "<group>"; };
 		F7BF68512958065E0070E89D /* something.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = something.swift; sourceTree = "<group>"; };
 		F7BF6859295A42240070E89D /* spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spacing.swift; sourceTree = "<group>"; };
 		F7BF685B295A511E0070E89D /* rotate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rotate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 		F7575450295B510B00D4E499 /* BVAlertView */ = {
 			isa = PBXGroup;
 			children = (
+				F7851D8E2963EFB80005DAE6 /* BVAlertView.swift */,
 			);
 			path = BVAlertView;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				F78069692956BDB700DC79D7 /* shake.swift in Sources */,
 				F7BF685A295A42240070E89D /* spacing.swift in Sources */,
 				F7575452295B6C0400D4E499 /* flip.swift in Sources */,
+				F7851D8F2963EFB80005DAE6 /* BVAlertView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
