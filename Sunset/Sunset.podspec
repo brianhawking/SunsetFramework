@@ -3,9 +3,9 @@ Pod::Spec.new do |spec|
   spec.name         = "Sunset"
   spec.version      = "1.0.0"
   spec.summary      = "Comprehensive UI framework for Sunset projects"
-  spec.description  = "Comprehensive UI framework for Sunset projects"
+  spec.description  = "Framework for commonly used UI components such as padding, colors, alerts, UIView extensions."
 
-  spec.homepage     = "https://github.com/brianhawking/Sunset.git"
+  spec.homepage     = "https://github.com/brianhawking/SunsetFramework.git"
 
   spec.license      = "MIT"
 
@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios
   spec.platform     = :ios, "13.4"
-  spec.source       = { :git => "https://github.com/brianhawking/Sunset.git", :tag => spec.version.to_s}
+  spec.source       = { :git => "https://github.com/brianhawking/SunsetFramework.git", :tag => spec.version.to_s}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
