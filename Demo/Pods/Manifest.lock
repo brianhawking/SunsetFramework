@@ -2,15 +2,15 @@ PODS:
   - Sunset (1.0.0)
 
 DEPENDENCIES:
-  - Sunset (from `../Sunset`)
+  - Sunset
 
-EXTERNAL SOURCES:
-  Sunset:
-    :path: "../Sunset"
+SPEC REPOS:
+  trunk:
+    - Sunset
 
 SPEC CHECKSUMS:
-  Sunset: d928a967bf80c6f171658e2c22822b35c65320ab
+  Sunset: 3259d48f18f4f745a601c1b0a2f66e303f6b7918
 
-PODFILE CHECKSUM: a9b7e65c866fb57f2b32fb48fb0adf818340364b
+PODFILE CHECKSUM: bafd8bf49e1c9955e7ba2fd52823e10ced53da33
 
 COCOAPODS: 1.11.2
